@@ -24,8 +24,6 @@ import {
 
 export default function WithSubnavigation() {
   const { isOpen, onToggle } = useDisclosure();
-  const;
-
   return (
     <Box>
       <Flex
